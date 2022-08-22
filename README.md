@@ -5,6 +5,11 @@ A URL shortener is a simple tool that takes a long URL and turns it into whateve
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, 
 it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source
 
+**Django emphasizes the following:**
+- Pluggability and reusability of components
+- Quick development
+- The principle of non repetition
+
 # What is a URL shortener?
 I want to clarify that a URL shortener is the same as a link shortener… is the same as a link shrinker… a link compressor… a URL condenser… a vanity URL creator… I think that’s them all covered. They are all different ways of saying the same thing, which is that we want to take something long and ugly, then make it short and cute. To keep it simple, I will stick with the term URL shortener from today until the day I die.
 
